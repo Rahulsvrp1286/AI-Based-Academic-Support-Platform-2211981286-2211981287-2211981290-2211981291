@@ -248,7 +248,7 @@ This project demonstrates:
 git clone https://github.com/<your-username>/AI-Based-Academic-Support-Platform.git
 
 # Go to project
-cd AI-Learning-Platform
+cd AI-Based-Academic-Support-Platform
 
 # Install frontend
 cd frontend
