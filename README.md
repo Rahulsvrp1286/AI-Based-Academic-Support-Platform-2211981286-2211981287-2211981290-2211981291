@@ -245,7 +245,7 @@ This project demonstrates:
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/AI-Learning-Platform.git
+git clone https://github.com/<your-username>/AI-Based-Academic-Support-Platform.git
 
 # Go to project
 cd AI-Learning-Platform
@@ -270,18 +270,4 @@ npm run dev
 ![AI](https://img.shields.io/badge/AI-Gemini-orange)
 
 ---
-
-## 👨‍💻 Author
-
-**Rahul Patra**  
-
-### 📫 Contact
-
-- 🌐 GitHub: https://github.com/Rahul-65-Patra
-- 💼 LinkedIn: https://linkedin.com/in/rahulpatra1 
-
----
-
-⭐ If you like this project, don’t forget to give it a star!
-
 
